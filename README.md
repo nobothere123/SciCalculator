@@ -24,19 +24,19 @@ A desktop calculator built with Python and Tkinter, featuring standard arithmeti
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/nobothere123/python-scientific-calculator.git
+   git clone https://github.com/nobothere123/SciCalculator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd python-scientific-calculator
+   cd SciCalculator
    ```
 
 3. Run the application:
 
    ```bash
-   python python_scientific_calculator.py
+   python SciCalculator.py
    ```
 
 No third-party Python packages are required. Tkinter must be available in your Python installation.
